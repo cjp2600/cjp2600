@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Stanislav Semenov</h1>
 <h3 align="center">Senior Software Engineer, Technical Consultant, Team Leader, Go developer</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=cjp2600" alt="cjp2600" /> </p>
 
 - 👨‍💻 All of my projects are available at [https://github.com/cjp2600](https://github.com/cjp2600)
 
