@@ -3,8 +3,6 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/cjp2600](https://github.com/cjp2600)
 
-- 💬 Ask me about **golang, mongodb, postgress, docker, ... and a little bit php**
-
 - 📫 How to reach me **icjp2600@gmail.com**
 
 <p align="center">
